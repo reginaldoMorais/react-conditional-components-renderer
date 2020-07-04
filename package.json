@@ -9,6 +9,7 @@
     "test:v": "jest --verbose",
     "test:c": "jest --coverage",
     "test:d": "jest --debug",
+    "test": "jest",
     "clean": "rm -Rf dist",
     "build": "npm run clean && tsc --skipLibCheck -p ."
   },
