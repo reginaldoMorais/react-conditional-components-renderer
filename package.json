@@ -1,5 +1,5 @@
 {
-  "name": "react-conditional-components",
+  "name": "react-render-conditional-component",
   "version": "0.0.1",
   "description": "React library with conditional components to rendering",
   "main": "dist/index.js",
@@ -19,7 +19,7 @@
     "typescript"
   ],
   "author": "reginaldoMorais <reginaldo.cmorais@gmail.com>",
-  "repository": "https://github.com/reginaldoMorais/react-conditional-components.git",
+  "repository": "https://github.com/reginaldoMorais/react-render-conditional-component.git",
   "license": "ISC",
   "dependencies": {
     "react": "^16.9.0",
