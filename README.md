@@ -1,4 +1,4 @@
-# React Render Conditional Components
+# React: Conditional Components Renderer
 
 This library brings React components to render or not children by conditional situations.
 
