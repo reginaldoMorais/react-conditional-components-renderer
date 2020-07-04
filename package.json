@@ -1,0 +1,51 @@
+{
+  "name": "react-conditional-components",
+  "version": "0.0.1",
+  "description": "React library with conditional components to rendering",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test:w": "jest --watchAll",
+    "test:v": "jest --verbose",
+    "test:c": "jest --coverage",
+    "test:d": "jest --debug",
+    "clean": "rm -Rf dist",
+    "build": "npm run clean && tsc --skipLibCheck -p ."
+  },
+  "keywords": [
+    "react",
+    "react-router-dom",
+    "typescript"
+  ],
+  "author": "reginaldoMorais <reginaldo.cmorais@gmail.com>",
+  "repository": "https://github.com/reginaldoMorais/react-conditional-components.git",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^16.9.0",
+    "react-dom": "^16.6.0",
+    "react-router-dom": "^5.0.1"
+  },
+  "peerDependencies": {
+    "react": "16.x",
+    "react-dom": "16.x",
+    "react-router-dom": "5.x"
+  },
+  "devDependencies": {
+    "@testing-library/jest-dom": "^5.11.0",
+    "@testing-library/react": "^10.4.3",
+    "@testing-library/user-event": "^12.0.11",
+    "@types/jest": "^26.0.3",
+    "@types/react": "^16.9.41",
+    "@types/react-dom": "^16.9.8",
+    "@types/react-router-dom": "^5.1.5",
+    "eslint": "^7.4.0",
+    "eslint-config-airbnb": "^18.2.0",
+    "eslint-plugin-import": "^2.22.0",
+    "eslint-plugin-jsx-a11y": "^6.3.1",
+    "eslint-plugin-react": "^7.20.3",
+    "jest": "^26.1.0",
+    "prettier": "^2.0.5",
+    "ts-jest": "^26.1.1",
+    "typescript": "^3.9.6"
+  }
+}
