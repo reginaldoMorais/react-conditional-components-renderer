@@ -15,8 +15,9 @@
   },
   "keywords": [
     "react",
-    "react-router-dom",
-    "typescript"
+    "typescript",
+    "conditional",
+    "components"
   ],
   "author": "reginaldoMorais <reginaldo.cmorais@gmail.com>",
   "repository": "https://github.com/reginaldoMorais/react-conditional-components-renderer.git",
