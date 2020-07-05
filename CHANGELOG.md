@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.0.4 (July 5, 2020)
+
+### Keyworld update
+
+- Updates keyword to npmjs.com. ([@reginaldoMorais](https://github.com/
+
 ## 0.0.3 (July 5, 2020)
 
 ### Documentation update
