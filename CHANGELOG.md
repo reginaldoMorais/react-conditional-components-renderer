@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.0.3 (August 04, 2021)
+
+### Updates Actions
+
+- Updates Github actions. ([@reginaldoMorais](https://github.com/))
+
 ## 1.0.2 (August 04, 2021)
 
 ### Implements
