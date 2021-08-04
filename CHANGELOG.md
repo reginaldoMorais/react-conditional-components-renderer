@@ -1,10 +1,22 @@
 # Changelog
 
+## 1.0.1 (February 16, 2021)
+
+### Update stable version
+
+- Update release. ([@reginaldoMorais](https://github.com/))
+
+## 1.0.0 (February 15, 2021)
+
+### First stable version
+
+- First release. ([@reginaldoMorais](https://github.com/))
+
 ## 0.0.4 (July 5, 2020)
 
 ### Keyworld update
 
-- Updates keyword to npmjs.com. ([@reginaldoMorais](https://github.com/
+- Updates keyword to npmjs.com. ([@reginaldoMorais](https://github.com/))
 
 ## 0.0.3 (July 5, 2020)
 
