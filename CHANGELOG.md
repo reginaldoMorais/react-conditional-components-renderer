@@ -1,5 +1,16 @@
 # Changelog
 
+## 1.0.2 (August 04, 2021)
+
+### Implements
+
+- Implements Github actions. ([@reginaldoMorais](https://github.com/))
+- Implements nvmrc release. ([@reginaldoMorais](https://github.com/))
+- Bump lodash from 4.17.20 to 4.17.21. ([@dependabot[bot]](https://github.com/apps/dependabot))
+- Bump hosted-git-info from 2.8.8 to 2.8.9. ([@dependabot[bot]](https://github.com/apps/dependabot))
+- Bump ws from 7.4.3 to 7.4.6. ([@dependabot[bot]](https://github.com/apps/dependabot))
+- Bump glob-parent from 5.1.1 to 5.1.2. ([@dependabot[bot]](https://github.com/apps/dependabot))
+
 ## 1.0.1 (February 16, 2021)
 
 ### Update stable version
