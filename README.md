@@ -1,6 +1,17 @@
 # React: Conditional Components Renderer
 
+[![Node.js Package](https://github.com/reginaldoMorais/react-conditional-components-renderer/actions/workflows/npm-publish.yml/badge.svg?branch=1.0.3)](https://github.com/reginaldoMorais/react-conditional-components-renderer/actions/workflows/npm-publish.yml)
+
 This library brings React components to render or not children by conditional situations.
+
+## Summary
+
+- [MP Boilerplate](#mp-boilerplate)
+  - [Sumário](#sumário)
+  - [If component](#if-component)
+  - [Switch and Case component](#switch-and-case-component)
+  - [Choice component](#choice-component)
+  - [Thank you](#thank-you)
 
 ## If component
 
@@ -106,6 +117,8 @@ const Compoment = () => {
 }
 ```
 
-## Enjoy the library and Thank you for use it
+## Thank you
+
+Enjoy the library and Thank you for use it!
 
 [Reginaldo Morais](mailto:reginaldo.cmorais@gmail.com)
