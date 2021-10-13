@@ -6,11 +6,17 @@ This library brings React components to render or not children by conditional si
 
 ## Summary
 
-- [MP Boilerplate](#mp-boilerplate)
-  - [Sumário](#sumário)
+- [React: Conditional Components Renderer](#react-conditional-components-renderer)
+  - [Summary](#summary)
   - [If component](#if-component)
+    - [Redirect Props](#redirect-props)
   - [Switch and Case component](#switch-and-case-component)
+    - [Case render Props](#case-render-props)
+    - [Switch render Props](#switch-render-props)
   - [Choice component](#choice-component)
+    - [InCaseOf render Props](#incaseof-render-props)
+    - [Otherwise render Props](#otherwise-render-props)
+    - [Choice render Props](#choice-render-props)
   - [Thank you](#thank-you)
 
 ## If component
