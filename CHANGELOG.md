@@ -1,10 +1,18 @@
 # Changelog
 
-## 1.0.4 (October 13, 2021)
+## 1.0.5 (October 13, 2021)
 
 ### Updates README.md
 
 - Updates documentation. ([@reginaldoMorais](https://github.com/reginaldoMorais))
+
+## 1.0.4 (October 13, 2021)
+
+### Patch release
+
+- Bump path-parse from 1.0.6 to 1.0.7. (@dependabot[bot])
+- Bump tmpl from 1.0.4 to 1.0.5. (@dependabot[bot])
+- Bump ansi-regex from 5.0.0 to 5.0.1. (@dependabot[bot])
 
 ## 1.0.3 (August 04, 2021)
 
