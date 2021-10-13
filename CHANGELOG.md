@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.0.4 (October 13, 2021)
+
+### Updates README.md
+
+- Updates documentation. ([@reginaldoMorais](https://github.com/reginaldoMorais))
+
 ## 1.0.3 (August 04, 2021)
 
 ### Updates Actions
