@@ -1,6 +1,6 @@
 {
   "name": "react-conditional-components-renderer",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "React library with conditional components to rendering",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
