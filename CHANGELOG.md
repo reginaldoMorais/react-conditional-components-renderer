@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.0.6 (December 13, 2021)
+
+### Fix vulnerabilities
+
+- Updates json-schema dependency to 0.4.0 version. ([@reginaldoMorais](https://github.com/reginaldoMorais))
+
 ## 1.0.5 (October 13, 2021)
 
 ### Updates README.md
