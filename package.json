@@ -11,7 +11,8 @@
     "test:d": "jest --debug",
     "test": "jest",
     "clean": "rm -Rf dist",
-    "build": "npm run clean && tsc --skipLibCheck -p ."
+    "build": "npm run clean && tsc --skipLibCheck -p .",
+    "husky-install": "husky install && chmod +x -Rf .husky"
   },
   "keywords": [
     "react",
@@ -45,6 +46,7 @@
     "eslint-plugin-import": "^2.22.1",
     "eslint-plugin-jsx-a11y": "^6.4.1",
     "eslint-plugin-react": "^7.22.0",
+    "husky": "^7.0.2",
     "jest": "^26.6.3",
     "prettier": "^2.2.1",
     "ts-jest": "^26.5.1",
