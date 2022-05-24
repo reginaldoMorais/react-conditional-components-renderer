@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.0.7 (May 24, 2022)
+
+### Fix vulnerabilities - May 24, 2022
+
+- Updates json-schema dependency to 0.4.0 version. ([@reginaldoMorais](https://github.com/reginaldoMorais))
+
 ## 1.0.6 (December 13, 2021)
 
 ### Fix vulnerabilities
