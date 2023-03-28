@@ -1,5 +1,13 @@
 # Changelog
 
+## 1.1.0 (Mar 28, 2023)
+
+### Node version and Add more If component types - May 28, 2023
+
+- Updates 16.x.x Node version. ([@reginaldoMorais](https://github.com/reginaldoMorais))
+- Fixes If component type to accept boolean or unknown types. ([@reginaldoMorais](https://github.com/reginaldoMorais))
+- Implements husky improvements. ([@reginaldoMorais](https://github.com/reginaldoMorais))
+
 ## 1.0.7 (May 24, 2022)
 
 ### Fix vulnerabilities - May 24, 2022

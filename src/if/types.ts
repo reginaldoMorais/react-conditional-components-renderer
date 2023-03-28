@@ -1,7 +1,7 @@
 import { ReactNode } from 'react';
 
 export interface IIf {
-  test: boolean;
+  test: boolean | unknown;
   orElse?: ReactNode;
   children: ReactNode;
 }
